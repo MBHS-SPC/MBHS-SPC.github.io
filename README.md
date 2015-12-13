@@ -1,3 +1,3 @@
 MBHS-SPC.github.io
 ==================
-The Montgomery Blair Smartphone Programming Club's organization site
+The MBHS Smartphone Programming Club's website, created by Isaac Eaton/
